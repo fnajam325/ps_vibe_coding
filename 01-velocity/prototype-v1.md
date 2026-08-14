@@ -17,7 +17,7 @@ _____
 
 - **What I built:** _____
 - **Tool used:** Lovable / v0 / Cursor / Bolt / Replit
-- **Shareable link:** [_____](https://lovable.dev/projects/752ae790-c00a-48fe-8251-c90fe99970b2)
+- **Shareable link:** (https://lovable.dev/projects/752ae790-c00a-48fe-8251-c90fe99970b2)
 
 ## Show & Swap read
 
