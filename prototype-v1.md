@@ -1,0 +1,33 @@
+# Prototype v1: First Build (Lab 1)
+
+> Module 1 · Velocity. Fifteen minutes from a vague problem to a clickable, shareable URL, instinct over methodology.
+
+## Scenario
+
+_Tick the scenario you built in Lab 1 (the same one you selected in the lab guide), or name your own._
+
+- [ ] Scenario 01 · The Retention Engine
+- [ ] Scenario 02 · The Internal Tool Nobody Uses
+- [ ] Scenario 03 · The Marketplace Trust Problem
+- [ ] Scenario 04 · The Dashboard Nobody Reads
+- [x] My own (instructor-approved): _____
+
+## Launch path
+
+- [ ] Copy & Customize (started from a scenario starter prompt)
+- [ ] First Screen Method (built only the very first screen the user sees)
+
+## The build
+
+- **What I built:** _____
+- **Tool used:** _____
+- **Shareable link:** https://lovable.dev/projects/752ae790-c00a-48fe-8251-c90fe99970b2
+
+## Show & Swap read
+
+_What a partner understood from your build with no verbal setup, their reaction is your first piece of product evidence._
+
+- **What they understood immediately:** _____
+- **What confused them:** _____
+- **The assumption they thought you were testing:** _____
+- **The gap between what you intended and what they read:** _____
